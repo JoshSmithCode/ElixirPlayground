@@ -37,6 +37,6 @@ config :playground, Playground.Repo,
   adapter: Ecto.Adapters.MySQL,
   username: "root",
   password: "",
-  database: "playground_dev",
+  database: "playground",
   hostname: "localhost",
   pool_size: 10
